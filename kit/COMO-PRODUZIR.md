@@ -87,4 +87,4 @@ Para cada cartão `aprovado` cujo horário já chegou:
 1. Leia a descrição completa. Pegue as URLs do bloco `PUBLICAR` (sem colchetes de link) e a legenda da seção `### Legenda`.
 2. Publique com Windsor `execute_action`: connector `instagram`, account `17841417732167045`, action `create_carousel_post` (ou `create_image_post` para imagem única), params `image_urls` e `caption`.
 3. Se der certo: mova para `publicado` e comente o media id. Se der erro: mantenha `aprovado`, comente o erro e tente na próxima janela. Erro de permissão do Instagram significa reconectar em `onboard.windsor.ai/app/instagram` pela opção "Connect with Facebook instead", o que só o Pedro pode fazer.
-4. Cartões em `ajustar`: aplique o que Pedro pediu nos comentários, rerenderize, atualize imagens e descrição e volte para `para aprovar`.
+4. Cartões em `ajustar` não são publicados. A produção das 4h refaz cada um conforme os comentários do Pedro, atualiza imagens e descrição e volta o cartão para `para aprovar`.

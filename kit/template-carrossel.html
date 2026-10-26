@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>O Prontuário · Carrossel diário</title>
+<!--
+  TEMPLATE DO CARROSSEL DIÁRIO · O PRONTUÁRIO
+  - 5 slides de 1080 × 1350 px (formato 4:5 do Instagram).
+  - Edite SÓ o que está marcado com <!-- CAMPO: ... -->. Não mexa no CSS.
+  - Fotos: coloque a URL (ou data URI) no src do <img> e REMOVA a classe "vazia" da div .foto.
+  - Para exportar: abra no navegador e clique em "Baixar os 5 PNGs".
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --tinta: #0E1A1F;
+    --noite: #0A0F12;
+    --papel: #F3F0E8;
+    --branco: #FFFFFF;
+    --verde: #2EC4A6;
+    --verde-claro: #BDEFE3;
+    --verde-escuro: #1F7A6A;
+    --areia: #E6E3DB;
+    --cinza: #8A9499;
+    --cinza-texto: #5B666B;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #2A2F31; color: #FFFFFF; font-family: 'Inter Tight', sans-serif; }
+
+  /* ---------- Página de pré-visualização (não sai no PNG) ---------- */
+  .barra { position: sticky; top: 0; z-index: 10; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; padding: 14px 16px; background: #15191B; border-bottom: 1px solid #3A4144; }
+  .barra h1 { margin: 0; font-size: 16px; font-weight: 700; }
+  .barra button { font: 700 15px 'Inter Tight', sans-serif; padding: 12px 18px; min-height: 44px; border: 0; border-radius: 8px; background: var(--verde); color: var(--tinta); cursor: pointer; }
+  .barra button:disabled { opacity: .6; cursor: wait; }
+  .status { font-size: 13px; color: #B8C0C3; }
+  .trilho { display: flex; flex-wrap: wrap; gap: 24px; padding: 24px 16px 48px; justify-content: center; }
+  .moldura { position: relative; overflow: hidden; border-radius: 6px; box-shadow: 0 10px 30px rgba(0,0,0,.35); }
+  .escala { transform-origin: top left; width: 1080px; height: 1350px; }
+  .rotulo-slide { font: 500 12px 'JetBrains Mono', monospace; letter-spacing: 2px; color: #B8C0C3; margin: 0 0 8px; }
+
+  /* ---------- Base dos slides ---------- */
+  .slide { width: 1080px; height: 1350px; position: relative; overflow: hidden; font-family: 'Inter Tight', sans-serif; }
+  .foto { position: relative; overflow: hidden; background: var(--areia); }
+  .foto img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .foto.vazia img { display: none; }
+  .foto.vazia::after { content: attr(data-rotulo); position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; text-align: center; padding: 24px; font: 500 22px/1.6 'JetBrains Mono', monospace; letter-spacing: 3px; color: var(--cinza-texto); white-space: pre-line; }
+  .escuro .foto { background: #1E2B30; }
+  .escuro .foto.vazia::after { color: var(--cinza); }
+
+  .arraste { display: flex; flex-direction: column; gap: 18px; }
+  .arraste .linha { display: flex; align-items: center; }
+  .arraste .linha span { flex-grow: 1; height: 2px; background: currentColor; }
+  .arraste .linha svg { flex-shrink: 0; }
+  .arraste p { margin: 0; align-self: flex-end; font: 500 24px 'JetBrains Mono', monospace; letter-spacing: 4px; }
+
+  /* ---------- Slide 1 · Capa ---------- */
+  .capa { background: var(--noite); color: var(--branco); }
+  .capa .fotos { position: absolute; inset: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .capa .fotos .foto:nth-child(1) { background: #26343A; }
+  .capa .fotos .foto:nth-child(2) { background: #1E2B30; }
+  .capa .fotos .foto:nth-child(3) { background: #2C3B41; }
+  .capa .fotos .foto.vazia::after { color: var(--cinza); font-size: 20px; }
+  .capa .sombra { position: absolute; left: 0; right: 0; bottom: 0; height: 620px; background: linear-gradient(180deg, rgba(10,15,18,0) 0%, rgba(10,15,18,.92) 70%); }
+  .capa .logo { position: absolute; top: 72px; left: 0; right: 0; text-align: center; font-family: 'Instrument Serif', serif; font-size: 52px; text-shadow: 0 2px 16px rgba(0,0,0,.45); }
+  .capa .titulo { position: absolute; left: 0; right: 0; top: 860px; display: flex; flex-direction: column; align-items: center; color: var(--tinta); }
+  .capa .tarja { padding: 0 30px; letter-spacing: -2px; }
+  .capa .tarja-1 { background: var(--branco); font-size: 82px; font-weight: 700; line-height: 1.12; }
+  .capa .tarja-2 { background: var(--verde); font-family: 'Instrument Serif', serif; font-size: 124px; line-height: 1.02; }
+  .capa .tarja-3 { background: var(--areia); font-size: 78px; font-weight: 700; line-height: 1.12; }
+  .capa .arraste { position: absolute; left: 64px; right: 64px; bottom: 64px; color: var(--branco); }
+
+  /* ---------- Slides 2 e 4 · Notícia clara ---------- */
+  .noticia { display: flex; flex-direction: column; padding: 72px 52px 64px; }
+  .clara { background: var(--branco); color: var(--tinta); }
+  .clara .foto { height: 780px; border-radius: 32px; border: 1px solid #CFCBC1; flex-shrink: 0; }
+  .noticia h2 { margin: 0; font-size: 58px; font-weight: 700; line-height: 1.06; letter-spacing: -1.5px; }
+  .clara h2 { margin-top: 44px; }
+  .noticia .texto { margin: 24px 0 0; font-size: 29px; line-height: 1.42; }
+  .clara .texto { color: #1B262B; }
+  .noticia .arraste { margin-top: auto; }
+
+  /* ---------- Slide 3 · Notícia escura ---------- */
+  .escuro { background: var(--noite); color: var(--branco); padding-top: 88px; }
+  .escuro h2 { font-size: 60px; font-weight: 800; line-height: 1.05; color: var(--verde); }
+  .escuro .texto { color: #D5DADC; margin-top: 26px; }
+  .escuro .foto { height: 640px; margin-top: 44px; border-radius: 32px; border: 1px solid #3E4D54; flex-shrink: 0; }
+
+  /* ---------- Slide 5 · Chamada da newsletter ---------- */
+  .cta { background: var(--papel); color: var(--tinta); }
+  .cta .logo { position: absolute; top: 76px; left: 56px; font-family: 'Instrument Serif', serif; font-size: 44px; }
+  .cta h2 { position: absolute; top: 170px; left: 48px; right: 40px; margin: 0; font-family: 'Instrument Serif', serif; font-weight: 400; font-size: 122px; line-height: 1.08; letter-spacing: -2.5px; }
+  .cta h2 span { background: var(--verde-claro); padding: 0 10px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+  .cta .esquerda { position: absolute; top: 660px; left: 56px; width: 470px; display: flex; flex-direction: column; gap: 90px; }
+  .cta .promessa { margin: 0; font-size: 42px; font-weight: 500; line-height: 1.3; letter-spacing: -.5px; }
+  .cta .promessa mark { background: var(--verde); color: var(--tinta); font-weight: 800; padding: 0 6px; }
+  .cta .chamada { margin: 0; font-size: 46px; font-weight: 500; line-height: 1.25; letter-spacing: -.8px; text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 8px; }
+  .celular { position: absolute; top: 640px; left: 590px; width: 540px; height: 820px; border: 16px solid var(--tinta); border-radius: 72px; background: var(--branco); overflow: hidden; }
+  .celular .topo { display: flex; justify-content: space-between; align-items: center; padding: 24px 36px 12px; font-size: 24px; font-weight: 700; }
+  .celular .ilha { width: 140px; height: 38px; border-radius: 20px; background: var(--tinta); }
+  .celular .email { padding: 20px 28px; display: flex; flex-direction: column; gap: 18px; }
+  .celular .data { font-size: 16px; color: var(--cinza-texto); text-align: right; }
+  .celular .nome { font-size: 38px; font-weight: 800; line-height: 1.05; letter-spacing: -1px; }
+  .celular .chips { display: flex; gap: 8px; }
+  .celular .chips span { border: 1px solid var(--cinza); border-radius: 20px; padding: 4px 12px; font-size: 13px; }
+  .celular .miniaturas { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+  .celular .miniaturas .foto { height: 120px; border-radius: 8px; }
+  .celular .miniaturas .foto.vazia::after { content: none; }
+  .celular .miniaturas .foto:nth-child(1) { background: #26343A; }
+  .celular .miniaturas .foto:nth-child(2) { background: #CFCBC1; }
+  .celular .miniaturas .foto:nth-child(3) { background: var(--verde); }
+  .celular .assunto { font-size: 32px; line-height: 1.25; color: #1B262B; margin-top: 8px; }
+  .celular .sub { font-size: 20px; line-height: 1.4; color: var(--cinza-texto); }
+</style>
+</head>
+<body>
+
+<div class="barra">
+  <h1>O Prontuário · Carrossel diário (5 slides, 1080 × 1350)</h1>
+  <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+    <span class="status" id="status"></span>
+    <button type="button" id="baixar">Baixar os 5 PNGs</button>
+  </div>
+</div>
+
+<main class="trilho">
+
+  <!-- =============================== SLIDE 1 · CAPA =============================== -->
+  <div>
+    <p class="rotulo-slide">01 · CAPA</p>
+    <div class="moldura"><div class="escala">
+      <section class="slide capa" data-nome="capa">
+        <div class="fotos">
+          <!-- CAMPO: foto da notícia 1 (a mesma do slide 2) -->
+          <div class="foto vazia" data-rotulo="[ FOTO&#10;NOTÍCIA 1 ]"><img src="" alt=""></div>
+          <!-- CAMPO: foto da notícia 2 (a mesma do slide 3) -->
+          <div class="foto vazia" data-rotulo="[ FOTO&#10;NOTÍCIA 2 ]"><img src="" alt=""></div>
+          <!-- CAMPO: foto da notícia 3 (a mesma do slide 4) -->
+          <div class="foto vazia" data-rotulo="[ FOTO&#10;NOTÍCIA 3 ]"><img src="" alt=""></div>
+        </div>
+        <div class="sombra"></div>
+        <div class="logo">O Prontuário</div>
+        <div class="titulo">
+          <div class="tarja tarja-1">As notícias do</div>
+          <div class="tarja tarja-2">Mundo da <i>Medicina</i></div>
+          <div class="tarja tarja-3">mais importantes do dia</div>
+        </div>
+        <div class="arraste">
+          <div class="linha"><span></span><svg width="16" height="20" viewBox="0 0 16 20" aria-hidden="true"><path d="M2 2 L13 10 L2 18" fill="none" stroke="currentColor" stroke-width="2.5"/></svg></div>
+          <p>ARRASTE PARA O LADO</p>
+        </div>
+      </section>
+    </div></div>
+  </div>
+
+  <!-- =============================== SLIDE 2 · NOTÍCIA 1 (CLARA) =============================== -->
+  <div>
+    <p class="rotulo-slide">02 · NOTÍCIA 1 · FUNDO CLARO</p>
+    <div class="moldura"><div class="escala">
+      <section class="slide noticia clara" data-nome="noticia-1">
+        <!-- CAMPO: foto da notícia 1 · 976 × 780 -->
+        <div class="foto vazia" data-rotulo="[ FOTO DA NOTÍCIA · 976 × 780 ]"><img src="" alt=""></div>
+        <!-- CAMPO: manchete (até 80 caracteres) -->
+        <h2>12 hospitais filantrópicos recebem aval do Cade para comprar juntos</h2>
+        <!-- CAMPO: texto (até 260 caracteres) -->
+        <p class="texto">A Ahfip, que reúne Sírio-Libanês, Oswaldo Cruz, Hcor, A.C.Camargo, BP e São Camilo, começa pelas compras de oncológicos e suprimentos. A economia estimada é de até 25%. Os independentes se unem para negociar como os grandes grupos.</p>
+        <div class="arraste">
+          <div class="linha"><span></span><svg width="16" height="20" viewBox="0 0 16 20" aria-hidden="true"><path d="M2 2 L13 10 L2 18" fill="none" stroke="currentColor" stroke-width="2.5"/></svg></div>
+          <p>ARRASTE PARA O LADO</p>
+        </div>
+      </section>
+    </div></div>
+  </div>
+
+  <!-- =============================== SLIDE 3 · NOTÍCIA 2 (ESCURA) =============================== -->
+  <div>
+    <p class="rotulo-slide">03 · NOTÍCIA 2 · FUNDO ESCURO</p>
+    <div class="moldura"><div class="escala">
+      <section class="slide noticia escuro" data-nome="noticia-2">
+        <!-- CAMPO: manchete (até 80 caracteres) -->
+        <h2>Fusões e aquisições na saúde movimentam 6 vezes mais em 2026</h2>
+        <!-- CAMPO: texto (até 260 caracteres) -->
+        <p class="texto">Segundo a KPMG, o valor dos negócios em saúde, ciências da vida e bem-estar subiu 506,9% no 1º semestre. Já o número de transações caiu de 83 para 55. Menos negócios, muito maiores.</p>
+        <!-- CAMPO: foto da notícia 2 · 976 × 640 -->
+        <div class="foto vazia" data-rotulo="[ FOTO DA NOTÍCIA · 976 × 640 ]"><img src="" alt=""></div>
+        <div class="arraste">
+          <div class="linha"><span></span><svg width="16" height="20" viewBox="0 0 16 20" aria-hidden="true"><path d="M2 2 L13 10 L2 18" fill="none" stroke="currentColor" stroke-width="2.5"/></svg></div>
+          <p>ARRASTE PARA O LADO</p>
+        </div>
+      </section>
+    </div></div>
+  </div>
+
+  <!-- =============================== SLIDE 4 · NOTÍCIA 3 (CLARA) =============================== -->
+  <div>
+    <p class="rotulo-slide">04 · NOTÍCIA 3 · FUNDO CLARO</p>
+    <div class="moldura"><div class="escala">
+      <section class="slide noticia clara" data-nome="noticia-3">
+        <!-- CAMPO: foto da notícia 3 · 976 × 780 -->
+        <div class="foto vazia" data-rotulo="[ FOTO DA NOTÍCIA · 976 × 780 ]"><img src="" alt=""></div>
+        <!-- CAMPO: manchete (até 80 caracteres) -->
+        <h2>Nobel de Medicina 2026 premia a técnica que controla neurônios com luz</h2>
+        <!-- CAMPO: texto (até 260 caracteres) -->
+        <p class="texto">Karl Deisseroth, Peter Hegemann e Georg Nagel venceram pela optogenética: proteínas de uma alga, colocadas em neurônios, permitem ligá-los ou desligá-los com luz. Na clínica, a técnica já é testada para tentar restaurar a visão.</p>
+        <div class="arraste">
+          <div class="linha"><span></span><svg width="16" height="20" viewBox="0 0 16 20" aria-hidden="true"><path d="M2 2 L13 10 L2 18" fill="none" stroke="currentColor" stroke-width="2.5"/></svg></div>
+          <p>ARRASTE PARA O LADO</p>
+        </div>
+      </section>
+    </div></div>
+  </div>
+
+  <!-- =============================== SLIDE 5 · CHAMADA DA NEWSLETTER (FIXO) =============================== -->
+  <div>
+    <p class="rotulo-slide">05 · CHAMADA DA NEWSLETTER · FIXO</p>
+    <div class="moldura"><div class="escala">
+      <section class="slide cta" data-nome="newsletter">
+        <div class="logo">O Prontuário</div>
+        <h2><span>Isso é 10% do que sai na Passagem de Plantão</span></h2>
+        <div class="esquerda">
+          <p class="promessa">O que muda na <mark>MEDICINA.</mark><br>Direto no seu e-mail.</p>
+          <p class="chamada">Comente “Quero” e receba toda terça e sexta a Passagem de Plantão</p>
+        </div>
+        <div class="celular" aria-hidden="true">
+          <div class="topo"><span>06:30</span><span class="ilha"></span><span style="width:40px"></span></div>
+          <div class="email">
+            <!-- CAMPO: data da próxima edição -->
+            <div class="data">20 de outubro de 2026 · Leia online</div>
+            <div class="nome">Passagem de Plantão</div>
+            <div class="chips"><span>HOSPITAIS</span><span>ESTUDOS</span><span>CARREIRA</span></div>
+            <div class="miniaturas">
+              <div class="foto vazia"><img src="" alt=""></div>
+              <div class="foto vazia"><img src="" alt=""></div>
+              <div class="foto vazia"><img src="" alt=""></div>
+            </div>
+            <!-- CAMPO: número da edição -->
+            <div class="assunto">[01] Sua passagem de plantão chegou...</div>
+            <div class="sub">Edição nº 1 · o que mudou na medicina enquanto você estava de plantão.</div>
+          </div>
+        </div>
+      </section>
+    </div></div>
+  </div>
+
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/dist/html-to-image.js"></script>
+<script>
+  // Encaixa cada slide de 1080 × 1350 na largura da tela, sem alterar o tamanho real exportado.
+  function ajustarEscala() {
+    var largura = Math.min(432, window.innerWidth - 32);
+    var s = largura / 1080;
+    document.querySelectorAll('.escala').forEach(function (el) {
+      el.style.transform = 'scale(' + s + ')';
+      el.parentElement.style.width = (1080 * s) + 'px';
+      el.parentElement.style.height = (1350 * s) + 'px';
+    });
+  }
+  window.addEventListener('resize', ajustarEscala);
+  ajustarEscala();
+
+  // Exporta cada <section class="slide"> como PNG 1080 × 1350.
+  document.getElementById('baixar').addEventListener('click', async function () {
+    var botao = this, status = document.getElementById('status');
+    if (!window.htmlToImage) { status.textContent = 'Não carregou a biblioteca de exportação. Verifique a internet.'; return; }
+    botao.disabled = true;
+    try {
+      await document.fonts.ready;
+      var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+      for (var i = 0; i < slides.length; i++) {
+        status.textContent = 'Gerando slide ' + (i + 1) + ' de ' + slides.length + '…';
+        var url = await htmlToImage.toPng(slides[i], { width: 1080, height: 1350, pixelRatio: 1, cacheBust: true });
+        var a = document.createElement('a');
+        a.href = url;
+        a.download = String(i + 1).padStart(2, '0') + '-' + slides[i].dataset.nome + '.png';
+        document.body.appendChild(a); a.click(); a.remove();
+        await new Promise(function (r) { setTimeout(r, 400); });
+      }
+      status.textContent = 'Pronto: 5 PNGs baixados.';
+    } catch (e) {
+      status.textContent = 'Falhou ao exportar (' + e.message + '). Fotos de outros sites podem bloquear a exportação: use imagens enviadas por você.';
+    } finally {
+      botao.disabled = false;
+    }
+  });
+</script>
+</body>
+</html>

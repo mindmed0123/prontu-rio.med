@@ -1,0 +1,7 @@
+{"out": "/tmp/carrossel.html",
+ "capa": {"img": "IMAGENS/52939561827.jpg", "fx": 0.38, "fy": 0.2, "tarjas": ["Vacina da gripe", "<i>é segura?</i>", "69 estudos respondem"], "topshade": 0.4},
+ "slides": [
+  {"img": "IMAGENS/px3992931.jpg", "fx": 0.5, "fy": 0.4, "h": "Em crianças, 80% menos mortes por influenza", "t": "Revisão no JAMA reuniu 69 estudos publicados até junho. Entre 6 meses e 17 anos, a vacina reduziu em 53% hospitalização ou ida ao pronto-socorro. Em adultos e idosos, cerca de 30%."},
+  {"img": "IMAGENS/px7088480.jpg", "fx": 0.5, "fy": 0.5, "h": "Na gestação, a vacina protege o bebê nos primeiros 6 meses", "t": "A vacina materna teve 44% de eficácia contra gripe sintomática no bebê antes dos 6 meses, quando ele ainda não pode ser vacinado, e foi associada a menos parto prematuro."},
+  {"img": "IMAGENS/52940617283.jpg", "fx": 0.45, "fy": 0.5, "h": "Sem aumento de Guillain-Barré nem de anafilaxia", "t": "Os autores não encontraram nenhuma nova preocupação de segurança. Em idosos, a vacina de alta dose reduziu a hospitalização em cerca de 44% frente à dose padrão, no ensaio DANFLU-2."}
+ ]}

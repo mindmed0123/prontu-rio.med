@@ -1,0 +1,7 @@
+{"out": "/tmp/carrossel.html",
+ "capa": {"img": "IMAGENS/capa_split.jpg", "fx": 0.5, "fy": 0.5, "tarjas": ["Tabela SUS", "<i>enterrar</i> ou corrigir?", "o que cada lado promete"], "topshade": 0.6},
+ "slides": [
+  {"img": "IMAGENS/53710528823.jpg", "fx": 0.5, "fy": 0.35, "zoom": 1.25, "h": "Padilha promete “enterrar” a tabela SUS e pagar por resultado", "t": "Coordenador do programa de saúde da campanha de Lula, o ministro quer ampliar o Agora Tem Especialistas: pacote fechado de consulta, exame e cirurgia, pagando de 3 a 4 vezes a tabela."},
+  {"img": "IMAGENS/55240399716.jpg", "fx": 0.45, "fy": 0.4, "h": "O plano de Flávio Bolsonaro promete a “correção efetiva” da tabela", "t": "O texto fala em remuneração que cubra o custo real do atendimento, agendamento com IA, uso dos horários ociosos da rede privada e prontuário único ligado ao CPF."},
+  {"img": "IMAGENS/px5049242.jpg", "fx": 0.4, "fy": 0.5, "h": "Nenhum lado diz quanto custa, de onde vem o dinheiro nem quando", "t": "Pagar por resultado exige medir desfecho, o que o SUS ainda faz mal. Corrigir a tabela alivia santas casas e filantrópicos, mas mantém o pagamento por volume. O 2º turno é no domingo, 25."}
+ ]}

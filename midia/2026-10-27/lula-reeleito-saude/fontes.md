@@ -1,0 +1,7 @@
+- [TSE · Presidente do TSE anuncia reeleição de Lula (25/10/2026)](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)
+- [Agência Senado · Lula é reeleito para quarto mandato (25/10/2026)](https://www12.senado.leg.br/noticias/materias/2026/10/25/lula-e-reeleito-para-quarto-mandato-de-presidente)
+- [InfoMoney · apuração e pedido de anulação de Flávio Bolsonaro (25/10/2026)](https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/)
+- [Agência Gov · discurso da vitória e Agora Tem Especialistas (26/10/2026)](https://agenciagov.ebc.com.br/noticias/202610/lula-e-reeleito-presidente-do-brasil-201cfato-historico-que-devo-ao-povo-brasileiro201d)
+- [Estado de Minas · promessas de campanha, câncer em 30 dias (26/10/2026)](https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html)
+- [Brasil 247 · Padilha promete substituir a tabela SUS (17/10/2026)](https://www.brasil247.com/saude/padilha-promete-substituir-tabela-sus-e-ampliar-pagamentos-por-procedimentos-em-novo-governo-lula)
+- [Exame · Lula x Flávio: propostas para a saúde, semaglutida e lacunas de financiamento](https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-propoe-para-a-saude-e-o-sus/)

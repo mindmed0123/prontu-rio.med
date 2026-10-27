@@ -7,11 +7,12 @@ Este manual é lido pela tarefa agendada que produz e publica os posts do @opron
 | Peça | Onde | Para quê |
 | --- | --- | --- |
 | Repositório | `mindmed0123/prontu-rio.med` | Kit de produção (`kit/`) e imagens publicadas (`midia/AAAA-MM-DD/<slug>/`) |
-| ClickUp | Lista **✅ Aprovação diária** (id `1600200000001006`) | Pedro aprova cada post |
-| Windsor.ai | Conector `instagram`, conta `17841417732167045` | Publica no Instagram |
+| Chat da produção | A conversa da tarefa diária | Pedro aprova, pede ajuste ou sugere tema **no chat**. O ClickUp não é mais usado. |
+| Windsor.ai | Conector `instagram`, conta `17841417732167045` | Publica no Instagram e serve de histórico do que já saiu |
 | Link público das imagens | `https://raw.githubusercontent.com/mindmed0123/prontu-rio.med/main/<caminho>` | A API do Instagram exige URL pública de JPEG |
+| Sugestões de tema | `kit/sugestoes.md` | Temas pedidos pelo Pedro, com prioridade. Ao usar um, apague a linha e anote "virou post de DD/MM" no commit. |
 
-Status da lista: `para aprovar` → `aprovado` → `publicado`. Também existem `ajustar` (Pedro pediu mudança nos comentários), `sugestão` (tema sugerido por Pedro) e `descartado`.
+Cada post fica em `midia/AAAA-MM-DD/<slug>/`: as imagens, `legenda.txt` (texto exato a publicar) e `fontes.md`.
 
 ## Identidade visual (não negociável)
 
@@ -38,7 +39,7 @@ Status da lista: `para aprovar` → `aprovado` → `publicado`. Também existem 
 - Confira cada número, nome, cargo e data na fonte. Se não confirmar, não use. Exemplo de erro já cometido: chamar de "médico" um senador que não é médico.
 - Temas políticos: mostrar os dois lados e incluir "O Prontuário não apoia candidatos."
 - Nunca dar conduta clínica para paciente. O público é médico.
-- Não repetir tema publicado nos últimos 14 dias. Consulte os cartões `publicado` da lista.
+- Não repetir tema publicado nos últimos 14 dias. Consulte o feed real: Windsor `get_data`, connector `instagram`, conta `17841417732167045`, campos `timestamp` e `media_caption`, `date_preset` `last_14dT`.
 
 ## Mix diário (5 posts)
 
@@ -48,7 +49,7 @@ Status da lista: `para aprovar` → `aprovado` → `publicado`. Também existem 
 4. Carrossel de notícia · o tema mais forte do dia, de qualquer editoria (de preferência delicado ou viral, com rigor)
 5. Quiz do plantão ou "número do dia", em carrossel de 2 slides (modelos em `kit/exemplos/posts-simples-quiz-numero.html`, renderizados por `kit/render-posts.js`)
 
-Se houver cartão com status `sugestão`, priorize o tema sugerido e mova esse cartão para `descartado` com o comentário "virou post de DD/MM".
+Se houver tema em `kit/sugestoes.md`, priorize-o e remova a linha depois de usar.
 
 Horários de publicação: 07h, 10h, 12h, 17h e 20h. Distribua os 5 posts nesses horários, o mais forte às 12h.
 
@@ -63,28 +64,25 @@ Horários de publicação: 07h, 10h, 12h, 17h e 20h. Distribua os 5 posts nesses
    ```
    Saída: 5 PNG 1080x1350. `render-carrossel.js` imprime as alturas de título e texto; título com mais de 2 linhas (altura > 130) deve ser encurtado.
 4. Olhe cada slide renderizado (capa inteira em tamanho real). Corrija enquadramento e texto até ficar no padrão.
-5. Converta para JPEG qualidade 95 (`subsampling=0`), menos de 8 MB cada, salve em `midia/AAAA-MM-DD/<slug>/01-capa.jpg` etc., faça commit e push.
+5. Converta para JPEG qualidade 95 (`subsampling=0`), menos de 8 MB cada, salve em `midia/AAAA-MM-DD/<slug>/01-capa.jpg` etc., junto com `legenda.txt` e `fontes.md`. Faça commit e push.
 6. Confirme que cada URL raw responde `200 image/jpeg`.
 
-## Cartão no ClickUp
+## Aprovação no chat (sem ClickUp)
 
-- Nome: `HHh · <título curto> · carrossel` (ex.: `12h · Tabela SUS: o que cada lado promete · carrossel`).
-- Status: `para aprovar`. Data de entrega (due date): o horário de publicação do dia.
-- Descrição em Markdown, nesta ordem: imagens embutidas `![](url)` de todos os slides; `### Legenda` com o texto exato; `### Fontes` com os links; e no fim o bloco de máquina:
-  ```
-  <!-- PUBLICAR
-  tipo: carousel
-  imagens:
-  <url 1>
-  <url 2>
-  ...
-  -->
-  ```
+O ClickUp não é mais usado. A aprovação acontece no chat da própria tarefa de produção.
+
+1. Ao terminar, mande no chat, post por post, na ordem dos horários: as imagens (SendUserFile, uma prévia por post com os slides lado a lado) e, numa mensagem (SendUserMessage), horário, título, legenda exata e fontes.
+2. Mande ao Pedro uma notificação curta (PushNotification) listando os 5 posts e horários, dizendo que a aprovação é no chat.
+3. Espere a resposta do Pedro no chat. Ele pode:
+   - **Aprovar** (todos ou alguns): para cada post aprovado, agende a publicação com `send_later` no horário dele (fuso de São Paulo). Se o horário já passou, publique na hora.
+   - **Pedir ajuste**: refaça o post, faça novo commit e push, mande a nova prévia e espere a aprovação.
+   - **Descartar** ou **trocar horário**: siga o pedido.
+4. Nunca publique o que o Pedro não aprovou no chat. Sem resposta, nada é publicado.
 
 ## Publicação
 
-Para cada cartão `aprovado` cujo horário já chegou:
-1. Leia a descrição completa. Pegue as URLs do bloco `PUBLICAR` (sem colchetes de link) e a legenda da seção `### Legenda`.
-2. Publique com Windsor `execute_action`: connector `instagram`, account `17841417732167045`, action `create_carousel_post` (ou `create_image_post` para imagem única), params `image_urls` e `caption`.
-3. Se der certo: mova para `publicado` e comente o media id. Se der erro: mantenha `aprovado`, comente o erro e tente na próxima janela. Erro de permissão do Instagram significa reconectar em `onboard.windsor.ai/app/instagram` pela opção "Connect with Facebook instead", o que só o Pedro pode fazer.
-4. Cartões em `ajustar` não são publicados. A produção das 4h refaz cada um conforme os comentários do Pedro, atualiza imagens e descrição e volta o cartão para `para aprovar`.
+No horário agendado:
+1. Leia `midia/AAAA-MM-DD/<slug>/legenda.txt` (do repositório no GitHub) e monte as URLs raw das imagens, na ordem dos nomes de arquivo.
+2. Antes de publicar, confira no Windsor (`get_data`, campos `timestamp` e `media_caption`, `date_preset` `last_1dT`) que o post ainda não está no feed, para nunca publicar duas vezes.
+3. Publique com Windsor `execute_action`: connector `instagram`, account `17841417732167045`, action `create_carousel_post` (ou `create_image_post` para imagem única), params `image_urls` e `caption`.
+4. Se der certo, avise no chat com o media id. Se der erro, mande notificação ao Pedro com o erro. Erro de permissão do Instagram significa reconectar em `onboard.windsor.ai/app/instagram` pela opção "Connect with Facebook instead", o que só o Pedro pode fazer.

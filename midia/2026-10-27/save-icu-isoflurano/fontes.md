@@ -1,0 +1,2 @@
+- [JAMA · Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial (14/10/2026)](https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.18471)
+- [ClinicalTrials.gov · NCT04415060](https://clinicaltrials.gov/study/NCT04415060)

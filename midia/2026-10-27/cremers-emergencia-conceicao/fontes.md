@@ -1,0 +1,3 @@
+- [Cremers · Cremers fiscaliza Hospital Nossa Senhora da Conceição após denúncias sobre escala médica (26/10/2026)](https://cremers.org.br/cremers-fiscaliza-hospital-nossa-senhora-da-conceicao-apos-denuncias-sobre-escala-medica/)
+- [POA 24 Horas · Cremers fiscaliza Hospital Conceição após denúncias de falta de médicos na emergência (26/10/2026)](https://poa24horas.com.br/noticias/2026/10/cremers-fiscaliza-hospital-conceicao-apos-denuncias-de-falta-de-medicos-na-emergencia/)
+- [Cremers · Fiscalização da emergência do HNSC (11/09/2024), dado de 130 pacientes e 55 leitos](https://cremers.org.br/cremers-fiscaliza-servico-de-emergencia-do-hospital-nossa-senhora-da-conceicao-em-porto-alegre/)

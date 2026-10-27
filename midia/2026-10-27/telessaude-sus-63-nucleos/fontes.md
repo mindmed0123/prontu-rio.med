@@ -1,0 +1,2 @@
+- [Ministério da Saúde · Telessaúde avança no SUS, chega a 63 núcleos e ultrapassa R$ 248,9 milhões em recursos e incentivos (26/10/2026)](https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/telessaude-avanca-no-sus-chega-a-63-nucleos-e-ultrapassa-r-248-9-milhoes-em-recursos-e-incentivos)
+- [Radar Digital Brasília · reprodução integral do comunicado (26/10/2026)](https://radardigitalbrasilia.com.br/saude/telessaude-avanca-no-sus-chega-a-63-nucleos-e-ultrapassa-r-2489-milhoes-em-recursos-e-incentivos/)

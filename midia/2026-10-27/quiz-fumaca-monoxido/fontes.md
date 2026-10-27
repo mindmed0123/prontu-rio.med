@@ -1,0 +1,3 @@
+- [Ministério da Saúde · El Niño e queimadas: Ministério da Saúde orienta profissionais sobre intoxicação por fumaça (23/10/2026)](https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/el-nino-e-queimadas-ministerio-da-saude-orienta-profissionais-sobre-intoxicacao-por-fumaca)
+- [Nota Técnica nº 3/2025-CGVAM/DVSAT/SVSA/MS · notificação de intoxicação por fumaça](http://www.saude.pa.gov.br/wp-content/uploads/2025/06/Nota-Tecnica-3_2025_CGVAM_DVSAT_SVSA_MS-Notificacao-de-Intoxicacao-por-Fumaca.pdf)
+- [Conexão MT · reprodução do comunicado do Ministério da Saúde](https://conexaomt.com/saude/el-nino-e-queimadas-ministerio-da-saude-orienta-profissionais-sobre-intoxicacao-por-fumaca/)

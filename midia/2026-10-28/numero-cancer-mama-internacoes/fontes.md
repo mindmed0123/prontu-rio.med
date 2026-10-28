@@ -1,0 +1,1 @@
+- Medicina S/A, 27/10/2026: "Mais de um terço das internações por câncer de mama ocorre antes dos 50 anos" (dados do Grupo IAG Saúde, Plataforma Valor Saúde Brasil by DRG Brasil + IA) — https://medicinasa.com.br/100-mil-internacoes-cancer/

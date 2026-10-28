@@ -1,0 +1,7 @@
+- Metrópoles, 26/10/2026: "Justiça Federal libera documentos sigilosos sobre morte de Tancredo Neves" — https://www.metropoles.com/distrito-federal/justica-federal-libera-documentos-sigilosos-sobre-morte-de-tancredo-neves
+- TNH1/g1, 26/10/2026 — https://www.tnh1.com.br/noticia/nid/justica-federal-concede-acesso-a-prontuario-e-documentos-sigilosos-da-morte-de-tancredo-neves/
+- TRF1 (nota oficial; não foi possível abrir, bloqueio do site) — https://www.trf1.jus.br/trf1/noticias/trf1-decide-que-filho-de-tancredo-neves-tem-direito-de-acesso-a-documentos-medicos-do-ex-presidente
+- Migalhas, 21/07/2026 (argumentos do CFM e do CRM-DF; processo 0006970-16.2012.4.01.3400) — https://www.migalhas.com.br/quentes/460736/trf-1-julga-acesso-de-filho-de-tancredo-neves-a-prontuarios-do-pai
+- Memorial da Democracia (internação, sete cirurgias, transferência ao InCor em 26/03/1985, morte em 21/04/1985) — https://www.memorialdademocracia.com.br/card/tancredo-morre-apos-longa-agonia
+- Recomendação CFM nº 3/2014 — https://mpba.mp.br/sites/default/files/biblioteca/recomendacao_cfm_03_2014_0.pdf
+- Fotos: Agência Brasília/Flickr 32010049477 e 33075593428 (Renato Araújo, CC BY 2.0); Joe Gratz/Flickr 117048243 (CC0); Imprensa Santo André/Flickr 55163360897 (CC BY-SA 4.0).

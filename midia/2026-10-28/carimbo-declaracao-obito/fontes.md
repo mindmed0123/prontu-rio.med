@@ -1,0 +1,3 @@
+- Cremers, 27/10/2026: "Cremers se reúne com Tribunal de Justiça para tratar sobre casos de exigência de carimbo médico em declaração de óbito" — https://cremers.org.br/cremers-se-reune-com-tribunal-de-justica-para-tratar-sobre-casos-de-exigencia-de-carimbo-medico-em-declaracao-de-obito/
+- Parecer CFM nº 40/2019 (Processo-Consulta CFM nº 20/2019) — https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2019/40_2019.pdf
+- Fotos: Pexels (IDs 5215024, 4021775, 5049242, 5452201).

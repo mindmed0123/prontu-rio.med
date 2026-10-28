@@ -1,0 +1,2 @@
+- Feifel D et al. Single Intranasal Administration of the Psychedelic Mebufotenin for Treatment-Resistant Depression: A Randomized Clinical Trial. JAMA, publicado online em 26/10/2026. DOI: 10.1001/jama.2026.18380 — https://jamanetwork.com/journals/jama/article-abstract/2855796 (NCT05870540)
+- Fotos: Dr. Hans-Günter Wagner/Flickr 53971047910 e 53970932824 (CC BY-SA 2.0); Pexels 7089020 e 7579831.

@@ -1,0 +1,3 @@
+- Aconteceu em Joinville (com base no portal Notícias SC, do governo de SC), 28/10/2026: "Governador Jorginho Mello anuncia R$ 535 milhões em investimentos de multinacional de tecnologia médica em Joinville" — https://aconteceuemjoinville.com.br/governador-jorginho-mello-anuncia-r-535-milhoes-em-investimentos-de-multinacional-de-tecnologia-medica-em-joinville/
+- ND Mais, 27/10/2026: "Gigante chinesa escolhe cidade de SC para instalar 1ª unidade na América Latina" — https://ndmais.com.br/economia/negocios/gigante-chinesa-unidade-joinville/
+- Fotos: Agência Brasília/Flickr 51634484762 (PET/CT do Hospital de Base, CC BY 2.0); STF/Flickr 54888296732 (Luiz Silveira, domínio público); KNAW/Flickr 14729145601 (CC BY 2.0); jgmarcelino/Flickr 4542813174 (CC BY 2.0).

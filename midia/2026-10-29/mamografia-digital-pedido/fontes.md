@@ -1,0 +1,3 @@
+- Agência Brasil (Paula Laboissière), 28/10/2026: "Médicos lançam guia para evitar recusa de mamografia digital" (republicado por O Povo) — https://opovo.com.br/noticias/saude/2026/10/28/medicos-lancam-guia-para-evitar-recusa-de-mamografia-digital.html
+- ANS, decisão da 10ª Reunião Extraordinária da Diretoria Colegiada (03/09/2026): retirada da diretriz de utilização da mamografia digital, cobertura sem limite de idade a partir de 1º/10 (comunicado reproduzido pelo Legismap, 10/09/2026) — https://legismap.com.br/conteudos/artigos-e-noticias/ans-aprova-mamografia-digital-sem-restricao-de-idade
+- Fotos: Agência Brasília/Flickr 54070486813 (CC BY 2.0); GORE Callao/Flickr 54296396412, 54297700640 e 54296396397 (Public Domain Mark).

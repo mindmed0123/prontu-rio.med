@@ -1,0 +1,5 @@
+- O Tempo, 28/10/2026: "Resolução CFM 2.472/2026: o que muda nas especialidades e na residência médica" (DOU de 28/10/2026, ed. 204, seção 1, p. 153) — https://www.otempo.com.br/educacao/2026/10/28/resolucao-cfm-2472-cria-duas-areas-medicas-e-muda-residencia-veja-o-que-muda
+- Estratégia MED, 28/10/2026: "Nova resolução do CFM amplia áreas médicas reconhecidas" (comparação com a Resolução 2.380/2024 e PDF da norma) — https://med.estrategia.com/portal/noticias/cfm-areas-atuacao-medica-nova-resolucao-2026/
+- DOU (não foi possível abrir nesta rodada; dados conferidos nas duas fontes acima, que concordam) — https://www.in.gov.br/web/dou/-/resolucao-cfm-n-2.472-de-24-de-setembro-de-2026-740664066
+- Ficou de fora por divergência entre as fontes: mudança em Neurofisiologia Clínica para pediatras.
+- Fotos (Wikimedia Commons): "Jacobi Hyperbaric Chamber.jpg" (Amqw23, CC BY-SA 4.0); "20250808 Intensive care unit bed.jpg" (Ismael Olea, CC BY 4.0); "Patients are being treated in the hyperbaric chamber... School of Aerospace Medicine" (USAF/DPLA, domínio público); "Mechelen AZ St Maarten Intensive Care Unit 01.jpg" (Ad Meskens, CC BY-SA 4.0).

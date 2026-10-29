@@ -1,0 +1,3 @@
+- Inwald DP, Laing E, Broomhall JM et al. Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial. JAMA, 2026 (edição de 27/10/2026, vol. 336, nº 16). DOI: 10.1001/jama.2026.19747. Registro ISRCTN20609635 / SNCTP000006590. Resumo conferido via CiteDrive — https://www.citedrive.com/en/discovery/permissive-blood-pressure-targets-in-pediatric-critical-care/ ; sumário da edição — https://jamanetwork.com/journals/jama/issue/336/16
+- Protocolo do estudo (PMC) — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11216373/
+- Fotos: Prefeitura de São José do Rio Preto/Flickr 53027533341, 53027918130, 53027700804 e 53027700864 (CC BY 2.0).

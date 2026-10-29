@@ -1,0 +1,3 @@
+- Elgemark K, Envall N, Kopp Kallner H. Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: A Randomized Clinical Trial. JAMA, publicado online em 17/09/2026; edição de 27/10/2026 (vol. 336, nº 16). DOI: 10.1001/jama.2026.14217 — https://jamanetwork.com/journals/jama/issue/336/16
+- Números conferidos em duas fontes secundárias concordantes (a página do JAMA não abriu nesta rodada): Norsk Helseinformatikk — https://nhi.no/for-helsepersonell/fra-vitenskapen/intrauterin-lokalbedovelse-ved-innsetting-av-spiral ; OC Academy, 18/09/2026 — https://www.ocacademy.in/blogs/intrauterine-mepivacaine-instillation-iud-pain
+- A diferença de 14,8 foi calculada pelas médias publicadas (58,6 − 43,8).

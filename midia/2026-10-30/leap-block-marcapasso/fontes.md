@@ -1,0 +1,7 @@
+- Li X et al., on behalf of the LEAP-Block Investigators. Left Bundle-Branch Area Pacing vs Right Ventricular Pacing for Atrioventricular Block and Preserved Left Ventricular Function: The LEAP-Block Randomized Clinical Trial. JAMA, publicado online em 28/10/2026. doi:10.1001/jama.2026.18146. NCT04730921 — https://jamanetwork.com/journals/jama/article-abstract/2855975
+- Números conferidos no resumo e Key Points do artigo (lidos em 30/10/2026). Cegamento não está informado no resumo; não foi mencionado.
+- Fotos (Wikimedia Commons):
+  - Capa: "Pacemaker Test (5284) (17869751114).jpg" — U.S. Food and Drug Administration, domínio público.
+  - Slide 2: "A cardiac catheterization procedure in the Naval Medical Center San Diego hospital's cardiac catheterization laboratory - 50428593407.jpg" — Navy Medicine (Flickr 50428593407), domínio público.
+  - Slide 3: "Pacemaker Test (5278) (18494274001).jpg" — U.S. Food and Drug Administration, domínio público.
+  - Slide 4: "132 (CardioNetworks ECGpedia).jpg" — Michael Rosengarten/CardioNetworks ECGpedia, CC BY-SA 3.0.

@@ -1,0 +1,3 @@
+- CREMERJ News (João Miranda), 30/10/2026: "CREMERJ atua e plantão de médicos das UPAs estaduais volta para valor inicial" — https://news.cremerj.org.br/2026/10/30/cremerj-atua-e-plantao-de-medicos-das-upas-estaduais-volta-para-valor-inicial/
+- Observação: o próprio texto atribui o corte de R$ 1.100 para R$ 900 a "relatos". Não houve nota da SES-RJ localizada.
+- Fotos: Agência Brasília/Flickr 50909206522, 50909096242, 50909096277, 50908271128 (CC BY 2.0; UPAs do DF, ilustrativas).

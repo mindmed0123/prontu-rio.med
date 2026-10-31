@@ -1,0 +1,2 @@
+- Agência Gov (EBC), 29/10/2026: "Ministério da Saúde amplia parceria com hospitais de referência e Proadi terá R$ 3,95 bilhões para fortalecer o SUS" — https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-amplia-parceria-com-hospitais-de-referencia-e-proadi-tera-r-3-95-bilhoes-para-fortalecer-o-sus
+- Fotos: Agência Senado/Flickr 53511570024 (Padilha, CC BY 2.0); Agência Brasília/Flickr 18335275596, 16948163092, 50908270998 (CC BY 2.0, ilustrativas).

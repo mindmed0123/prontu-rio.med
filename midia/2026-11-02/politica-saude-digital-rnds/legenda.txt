@@ -1,0 +1,21 @@
+O sistema do seu hospital ou consultório vai ter de conversar com a rede nacional de dados do SUS. Quando e como, ainda não se sabe.
+
+O Ministério da Saúde instituiu a Política Nacional de Informação e Saúde Digital. A Portaria GM/MS nº 12.301 foi assinada pelo ministro Alexandre Padilha em 27 de outubro, publicada no dia 28 em edição extra do Diário Oficial e já está em vigor.
+
+O que ela estabelece:
+→ a Rede Nacional de Dados em Saúde (RNDS) como plataforma de interoperabilidade
+→ estados e municípios com acesso direto aos dados do seu território
+→ CPF como identificador prioritário, captura única e reuso dos dados
+→ proteção de dados, segurança da informação e uso ético de tecnologias como a IA
+
+Para o setor privado: a política se aplica, no que couber, a prestadores públicos e privados, empresas de tecnologia em saúde e profissionais. Os estabelecimentos de saúde devem adaptar seus sistemas, de forma gradual, para interoperar com a RNDS.
+
+O que falta: a portaria não traz prazos nem sanções para os estabelecimentos. A Comissão Intergestores Tripartite tem 180 dias para pactuar o plano de ação, e o grupo executivo da política ainda será criado.
+
+Seu serviço já envia dados para a RNDS? Conte nos comentários.
+
+Link na bio.
+
+Fotos: Agência Senado (Flickr, CC BY 2.0), Imprensa Santo André (Flickr, CC BY-SA 4.0) e Pexels. Imagens ilustrativas.
+
+#oprontuario #saudedigital #rnds #sus #interoperabilidade #prontuarioeletronico #ministeriodasaude #medicina

@@ -1,0 +1,2 @@
+- JAMA, 03/11/2026 (Vol. 336, nº 17): "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial", DOI 10.1001/jama.2026.15496, NCT05701956 — https://jamanetwork.com/journals/jama/fullarticle/2854449 (330 pacientes, 40 centros na China, NIHSS ≥10, 4,5–24 h; mRS 0–2: 30% vs 30%, RR ajustado 0,92 [0,67–1,25], DR −0,18% [−10,13 a 9,76]; HICs 5% vs 4%; mortalidade 40% vs 43%)
+- Fotos: Pexels 4226119 (capa), 32828964, 6823562, 3279197 (ilustrativas).

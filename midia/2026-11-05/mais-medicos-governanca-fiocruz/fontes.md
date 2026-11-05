@@ -1,0 +1,3 @@
+- Ministério da Saúde (Agência Saúde), 03/11/2026: "Estudo analisa mudanças nas regras e na gestão do Mais Médicos entre 2013 e 2025" (13,7 mil → 27,3 mil médicos, +99%, ~4,5 mil municípios, DSEIs 325 → 706, Lei 14.621/2023, fala de Alessandro Jatobá, limitações dos indicadores) — https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/estudo-analisa-mudancas-nas-regras-e-na-gestao-do-mais-medicos-entre-2013-e-2025
+- Estudo: "Avaliação da Governança no Programa Mais Médicos: Um Modelo Baseado na Lógica Fuzzy", Boletim Rede de Pesquisas PMM, Ano I, Ed. 6 (mar/2026), linkado na notícia acima.
+- Fotos: Pexels 8460157 (capa), 6129507, 5215024, 4021775 (ilustrativas).

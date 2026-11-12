@@ -1,0 +1,8 @@
+# Fontes · hapvida-3t26
+
+- InfoMoney (Estadão Conteúdo), 11/11/2026 20h46, "Hapvida: lucro líquido ajustado soma R$ 107 milhões no 3º tri, queda de 68%". Confirmado: lucro ajustado R$ 107,0 mi vs R$ 337,7 mi (−68,3%); receita líquida R$ 8,08 bi (+3,9%), por reajustes; sinistralidade caixa 77,2% vs 75,2%; motivos (sazonalidade, +R$ 57,4 mi em contingências cíveis, custos pontuais de fechamento e otimização de estruturas assistenciais); Ebitda ajustado R$ 496,6 mi (−33,5%), margem 6,1% vs 9,6%; dívida líquida R$ 5,30 bi, R$ 100,9 mi abaixo do 2T26; tíquete médio R$ 313,30 (+7,0%); 8,433 mi beneficiários de saúde. https://www.infomoney.com.br/mercados/hapvida-hapv3-resultados-terceiro-trimestre-2026/
+- Brazil Stock Guide, 3T26. Confirmado: revisão da carteira explica a maior parte da queda de 235 mil beneficiários no trimestre; venda dos imóveis do Hospital Octaviano Neves à Feluma por R$ 60 mi (fechamento previsto no início de 2027); prejuízo líquido de R$ 118,8 mi; fala do CEO Luccas Adib "Já vemos sinais positivos na geração de caixa e na redução do endividamento". https://brazilstockguide.com/insights/hapvida-reestruturacao-carteira-venda-hospital-bh-3t26/
+- Visno Invest, "Hapvida (HAPV3) registra prejuízo de R$ 118,8 mi no 3T26" (confirma o prejuízo contábil). https://visnoinvest.com.br/news/16444/hapvida-hapv3-registra-prejuizo-de-r-1188-mi-no-3t26
+- Contexto BH: post de 02/11 (Unidade II do Hospital Universitário Ciências Médicas no prédio da antiga Octaviano Neves).
+- Release da companhia (RI) não aberto nesta sessão; números conferidos em duas fontes. Reação das ações (pregão de 12/11) não incluída, pois ainda não ocorreu na hora da produção.
+- Fotos: Pexels 6129049 (capa), 7821913, 4210611, 6303590 (ilustrativas).

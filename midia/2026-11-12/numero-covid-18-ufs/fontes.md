@@ -1,0 +1,7 @@
+# Fontes · numero-covid-18-ufs
+
+- Exame, 10/11/2026 11h26, "Covid-19 tem tendência de alta em 18 estados há seis semanas, alerta Ministério da Saúde". Confirmado: boletim do MS com dados até 4/11 (SE 43); 17 estados + DF com tendência de alta há ao menos 6 semanas (lista); todos em risco baixo; 118.851 casos de SG por covid (−68,8%); SRAG ~3,4 mil vs 9,2 mil (−63%); óbitos ~1,4 mil para 437 (−69%); >7,4 milhões de doses; aumento em laboratórios privados nas últimas 9 semanas; InfoGripe: sinal de aumento de SRAG em MT, DF, RJ, SP, SC, incidência baixa; esquemas por grupo (60+ a cada 6 meses; imunocomprometidos ≥5 anos a cada 6 meses; gestantes 1 dose por gestação; outros grupos especiais anual; 6 meses a <5 anos 3 doses Pfizer ou 2 Moderna). https://exame.com/brasil/covid-19-tem-tendencia-de-alta-em-18-estados-ha-seis-semanas-alerta-ministerio-da-saude/
+- O Tempo, 10/11/2026 (mesmos números e lista; padrão sazonal). https://www.otempo.com.br/saude-e-bem-estar/2026/11/10/covid-volta-a-subir-em-minas-e-em-outros-16-estados-vacinacao-e-recomendada
+- Forbes Brasil, 10/11/2026 (confirma lista, números e esquemas). https://forbes.com.br/forbes-saude/2026/11/ministerio-da-saude-alerta-para-alta-de-covid-19-em-18-estados/
+- Calendário técnico do idoso (gov.br/saude, atualizado em 29/01/2026): dose semestral para 60+. https://www.gov.br/saude/pt-br/composicao/svsa/pni/calendario-tecnico/calendario-tecnico-nacional-de-vacinacao-idoso
+- Sem fotos (post tipográfico).

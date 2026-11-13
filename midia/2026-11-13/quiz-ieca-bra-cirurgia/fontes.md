@@ -1,0 +1,4 @@
+# Fontes · quiz-ieca-bra-cirurgia
+
+- Yang Y, Peng K, Zhong J et al. "Effect of discontinuing antihypertensives on perioperative hypotension in older patients before non-cardiac surgery: multicentre, randomised, double blind, controlled trial." BMJ, 11/11/2026. PMID 43014822. DOI 10.1136/bmj-2026-101087. Resumo lido no PubMed: 5 hospitais terciários na China, nov/2020 a dez/2023; 2.036 randomizados (60-80 anos, IECA/BRA ≥2 semanas, anestesia geral); 2.012 completaram (1.004 vs 1.008); hipotensão 31,2% (314/1008) sem vs 45,5% (457/1004) com; OR ajustado 0,52 (IC 0,43-0,63); diferença −14,4%; vasopressor OR 0,54 (IC 0,44-0,66); sem diferença em volume, hipotensão pós-operatória, complicações em 30 dias e mortalidade. https://pubmed.ncbi.nlm.nih.gov/43014822/ · https://doi.org/10.1136/bmj-2026-101087
+- Sem fotos (post tipográfico).

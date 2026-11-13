@@ -1,0 +1,7 @@
+# Fontes · gilmar-tabela-sus-stf
+
+- Migalhas, 12/11/2026 07h34, "Gilmar suspende processos sobre valores pagos pelo SUS a hospitais privados". Confirmado: suspensão nacional dos processos; suspensão de expedição/levantamento de precatórios e RPVs; até o julgamento do RE 1.612.904; pedido da AGU após repercussão geral em outubro; Tunep/IVR; perícias e índices inflacionários; ações de municípios; dados AGU (7.738 processos; >R$ 731 mi a 94 autores em 2023-2024; risco >R$ 243 bi); cessão de créditos com deságio; citação literal "graves indícios de irregularidades na fase de execução". https://migalhas.com.br/quentes/468421/gilmar-suspende-processos-sobre-valores-pagos-pelo-sus-a-hospitais-privados
+- ND Mais, 12/11/2026 08h01 (mesmos números; R$ 24,4 bi/ano se o IVR fosse generalizado; argumento dos hospitais; suspensão não cancela créditos). https://ndmais.com.br/justica/gilmar-mendes-suspende-precatorios-sus/
+- Portal STF, 20/10/2026, "Supremo vai analisar revisão judicial dos valores pagos pelo SUS a hospitais privados" (repercussão geral no RE 1612904, Plenário Virtual concluído em 19/10; recorrente Santa Casa de Juiz de Fora; R$ 24 bi/ano; sem data de julgamento). https://noticias.stf.jus.br/?p=167106
+- Data exata da decisão monocrática não confirmada; a legenda diz "noticiada na quinta (12)".
+- Fotos: capa "Gilmar Mendes 2016.jpg", Wikimedia Commons, CC BY 2.0, 1543x1776 (scale 0,76) — https://commons.wikimedia.org/wiki/File:Gilmar_Mendes_2016.jpg ; Pexels 6129049 (slide 1), 7821913 (slide 2), 8460101 (slide 3), ilustrativas.

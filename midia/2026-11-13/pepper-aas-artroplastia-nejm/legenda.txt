@@ -1,0 +1,22 @@
+AAS para prevenir TEV depois de prótese de quadril ou joelho é tão bom quanto anticoagulante? O maior ensaio já feito sobre isso não conseguiu provar.
+
+Estudo em 1 minuto: o PEPPER, publicado no NEJM em 12/11, é um ensaio pragmático de não inferioridade. Randomizou 18.883 pacientes de artroplastia eletiva de quadril ou joelho para 30 dias de AAS 81 mg 2x/dia, varfarina (RNI-alvo 2,0) ou rivaroxabana 10 mg/dia. A análise principal, por protocolo, incluiu 15.317 (7.214 quadris e 8.103 joelhos). Desfechos avaliados de forma cega até 6 meses. Margem de não inferioridade: 0,69 ponto percentual.
+
+Eficácia (morte ou TEV sintomático): 1,26% com AAS, 1,23% com varfarina e 0,94% com rivaroxabana. AAS vs rivaroxabana: diferença de 0,30 ponto (IC 95% −0,20 a 0,81). AAS vs varfarina: 0,23 ponto (IC 95% −0,34 a 0,81). Os ICs passam da margem, então o AAS não demonstrou não inferioridade.
+
+Segurança (sangramento, reoperação por problema na ferida ou IAM): 2,91% com AAS, 3,36% com varfarina e 3,48% com rivaroxabana. Rivaroxabana vs AAS: 0,68 ponto (IC 95% −0,04 a 1,41). Varfarina vs AAS: 0,77 ponto (IC 95% −0,04 a 1,58). Os anticoagulantes também não demonstraram não inferioridade ao AAS em segurança.
+
+Limitações:
+→ análise principal por protocolo (a por intenção de tratar teve resultado semelhante)
+→ eventos raros nos três braços, com diferenças absolutas pequenas
+→ não inferioridade não demonstrada não é o mesmo que inferioridade demonstrada: nenhuma comparação foi estatisticamente diferente
+
+O trabalho foi financiado pelo PCORI, com primeiro autor Vincent Pellegrini, do Dartmouth-Hitchcock Medical Center.
+
+Seu serviço usa AAS ou anticoagulante após artroplastia? Conte nos comentários.
+
+Link na bio.
+
+Fotos: Pexels. Imagens ilustrativas.
+
+#oprontuario #ortopedia #artroplastia #tromboembolismo #hematologia #nejm #estudoem1minuto #medicina

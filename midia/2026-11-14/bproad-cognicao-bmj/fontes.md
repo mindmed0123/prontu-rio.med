@@ -1,0 +1,7 @@
+# Fontes · bproad-cognicao-bmj
+
+- PubMed 43020520 · Wang W, Xu Y, Xu F et al. "Effect of intensive blood pressure control on cognitive outcomes and brain structures in adults with type 2 diabetes: prespecified analysis of secondary outcomes of BPROAD randomised controlled trial." BMJ 2026;395:e101209, publicado em 12/11/2026. https://doi.org/10.1136/bmj-2026-101209 . Resumo lido: 145 centros, 12.821 randomizados, 12.434 sem provável demência; 6.219 vs 6.215; idade média 63,7; 44,8% mulheres; PAS 1 ano 121,6 vs 133,2; mediana 3,8 anos; 747 (3,69/100 p-a) vs 783 (3,89/100 p-a); HR 0,96 (0,86–1,06), P=0,38; RM basal 862, final 605; análise 428 vs 434; diferença −0,09 (asinh cm³), IC −0,15 a −0,02, P=0,01. NCT03808311.
+- PubMed 39555827 · Bi Y et al. "Intensive Blood-Pressure Control in Patients with Type 2 Diabetes." NEJM 2025;392:1155-1167 (online 16/11/2024). https://doi.org/10.1056/NEJMoa2412006 . HR 0,79 (0,69–0,90) para desfecho cardiovascular composto; mais hipotensão sintomática e hipercalemia.
+- Afiliação: Ruijin Hospital, Shanghai Jiao Tong University School of Medicine (metadados PubMed).
+- Limitações listadas: ensaio aberto e só China (do desenho); "seguimento curto para demência" e "desfecho secundário" são leitura editorial.
+- Fotos: capa Pexels 4226119 (RM de crânio, scale 0,42); slide 1 "Blood pressure check.jpg" (Commons, CC BY-SA 4.0); slide 2 Pexels 7659573; slide 3 Pexels 7089020. Ilustrativas.

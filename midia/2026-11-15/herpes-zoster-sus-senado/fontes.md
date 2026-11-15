@@ -1,0 +1,9 @@
+# Fontes · herpes-zoster-sus-senado
+
+- Senado Federal, página do PL 4.426/2025 (lida em 15/11/2026, atualizada em 12/11/2026). Confirmado: autora Dra. Eudócia (PL/AL); relatora na CAS Damares Alves (Republicanos/DF); CDH com Mara Gabrilli (substitutivo aprovado em 25/02/2026); 11/11/2026 CAS adotou definitivamente o substitutivo em turno suplementar (art. 284 do RISF), Ofício 43/2026-CAS; prazo para recurso de 1/10 dos senadores de 12/11 a 18/11/2026. https://www25.senado.leg.br/web/atividade/materias/-/materia/170295
+- Senado, pauta/resultado da 52ª Reunião Extraordinária da CAS, 11/11/2026, item 9: substitutivo ao PL 4.426/2025 definitivamente adotado, sem emendas. https://legis.senado.leg.br/atividade/comissoes/comissao/40/reuniao/14969
+- Estratégia MED, 02/09/2026: público do substitutivo (maiores de 50 anos; maiores de 18 com imunossupressão ou condição que comprometa a imunidade); projeto original para maiores de 60. https://med.estrategia.com/portal/noticias/vacina-herpes-zoster-sus-senado/
+- Grupo MedCof, 13/11/2026: confirma votação de 11/11, prazo de recurso 12 a 18/11, decisão de janeiro do MS e impacto de R$ 5,2 bi em 5 anos. https://grupomedcof.com.br/blog/herpes-zoster-o-que-e
+- CFF, 15/01/2026, "Ministério da Saúde mantém vacina contra herpes-zóster fora do SUS": vacina recombinante adjuvada; grupos avaliados 80+ e imunocomprometidos 18+; não custo-efetiva; impacto R$ 5,2 bi em 5 anos; pedido de negociação de preço. https://site.cff.org.br/noticia/Noticias-gerais/15/01/2026/ministerio-da-saude-mantem-vacina-contra-herpes-zoster-fora-do-sus
+- Não usados por não confirmados em fonte da lista: preço por dose oferecido ao governo e falas de senadores/especialistas (TV SIM Brasil).
+- Fotos: Agência Senado, Flickr 53287937736 (licença 4, CC BY 2.0), capa, Damares Alves na tribuna do Plenário; Agência Senado, Flickr 55460615992 (licença 12, CC BY-SA 4.0), sala da CAS; Pexels 8949913, 5207020. Ilustrativas.

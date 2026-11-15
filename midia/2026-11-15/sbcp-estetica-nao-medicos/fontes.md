@@ -1,0 +1,5 @@
+# Fontes · sbcp-estetica-nao-medicos
+
+- Medicina S/A, 13/11/2026, Gabriele Ventura, "6,1 milhões de brasileiros fizeram procedimentos estéticos com não médicos". Confirmado: Datafolha encomendado pela SBCP, 2.086 entrevistados 16+; 4% (≈6,1 mi) fizeram; 26% (≈43,2 mi) conhecem alguém; dentistas 46%, esteticistas 44%, biomédicos 22%; motivos 34/28/22/21%; 81% acham que só médicos; 425 cirurgiões, 92%; campanha e selo com código de barras; ampliação em 2027; Cremesp 248 (2024) → 472 (2025); fala de Marcelo Sampaio. Período de coleta e margem de erro não divulgados. https://medicinasa.com.br/sbcp-seguranca-pacientes/
+- Jornal do Brasil, coluna "Você Tem Direito", 21/10/2026, "Harmonização orofacial: a resolução caiu, a dúvida ficou". Confirmado: TRF1, 8ª Turma, por maioria, 19/08/2026, anulou a Resolução CFO 198/2019; embargos de declaração das duas partes; posição do CFO (não atinge título já concedido nem a prática; Lei de 1966). https://www.jb.com.br/colunistas/voce-tem-direito/2026/10/1061302-harmonizacao-orofacial-a-resolucao-caiu-a-duvida-ficou.html
+- Fotos: Pexels 7582552 (capa), 7581590, 3845767, 7585312. Ilustrativas.

@@ -1,0 +1,7 @@
+# Fontes · zeus-ziltivekimab-nejm
+
+- Healio, 07/11/2026, "Ziltivekimab cuts inflammation but not CV events in atherosclerosis, kidney disease". Confirmado: n=6.376; ASCVD + DRC + hsCRP ≥2; idade média 69; 27,5% mulheres; 66% diabetes; 42% IC; IL-6 mediana 4,9; hsCRP mediana 4,5; 15 mg SC mensal; seguimento mediano 33 meses; hsCRP −64% e IL-6 livre −76% em 24 meses; MACE 17,6 vs 17,7%, HR 0,99 (0,88–1,11), P=0,84; morte CV HR 0,99 (0,86–1,15); renal HR 1,05 (0,94–1,17); morte total 16,9 vs 17%, HR 0,99 (0,88–1,12); EAs graves 54% ambos; infecção grave 20,4 vs 17,9%; apresentador Paul Ridker, AHA 2026, Chicago; NEJM doi:10.1056/NEJMoa2612126; financiamento Novo; HERMES e ARTEMIS em andamento. https://www.healio.com/news/cardiology/20261107/ziltivekimab-cuts-inflammation-but-not-cv-events-in-atherosclerosis-kidney-disease
+- TCTMD, 07/11/2026, "ZEUS: What Went Awry With Ziltivekimab". Confirmado: duplo-cego, placebo; TFGe média 44,5; celulite 2,9 vs 1,0%; população com mortalidade ~2x a do CANTOS; vínculos com a indústria. https://www.tctmd.com/news/zeus-what-went-awry-ziltivekimab-inflammation-and-what-now
+- NEJM, artigo original (Ridker PM et al., NEJMoa2612126): página não abriu nesta rodada (erro do site); números conferidos em duas fontes independentes acima. https://www.nejm.org/doi/full/10.1056/NEJMoa2612126
+- Data da apresentação: sessão LBS.01 da AHA, sábado, 07/11/2026 (ACC, "sat-935am-zeus-aha-2026").
+- Fotos: Pexels 8460100 (capa), 6622519, 5214992, 8460084. Ilustrativas.

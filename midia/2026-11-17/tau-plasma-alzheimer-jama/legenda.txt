@@ -1,0 +1,24 @@
+Um exame de sangue que acompanha os emaranhados de tau do Alzheimer, sem PET nem espectrometria de massa. Ainda é prova de conceito.
+
+Estudo em 1 minuto: estudo transversal publicado no JAMA em 16/11. Os autores testaram um novo imunoensaio para a eMTBR-tau (região de ligação aos microtúbulos da tau, clivada endogenamente) no plasma. Até aqui, o marcador eMTBR-tau243 só era medido por espectrometria de massa, de acesso restrito. Foram 728 participantes em 4 coortes: 2 de doadores de cérebro com plasma colhido em vida, nos EUA, e 2 com PET de tau, no Canadá e na Suécia.
+
+Resultados:
+→ na necropsia, frente aos estágios Braak I-II, a eMTBR-tau foi 50,5 vezes (IC 95% 26,3 a 97,0) e 25,2 vezes (IC 95% 15,8 a 40,3) maior no estágio VI, nas duas coortes
+→ no PET, frente ao estágio 0: 11 vezes maior nos estágios III-IV e 59,9 vezes nos estágios V-VI
+→ em amiloide-positivos, a correlação com a captação no PET subiu das regiões iniciais (ρ 0,52) para as avançadas (ρ 0,85)
+→ concordância com a espectrometria de massa: ρ 0,93; discriminação de tau positivo no PET com AUC de 0,96 a 0,99
+
+Limitações:
+→ estudo transversal, com amostras de coortes de pesquisa de 2002 a 2025; não testa o exame para diagnóstico na prática
+→ o marcador reflete doença avançada; o sinal é mais fraco nas fases iniciais
+→ coautores da Bioventix, que desenvolveu o ensaio, e com vínculos com Eisai e Eli Lilly
+
+Os autores chamam o resultado de prova de princípio. O primeiro autor é Wagner S. Brum, do Banner Sun Health Research Institute, nos EUA; o último é Nicholas J. Ashton.
+
+Exame de sangue para tau vai mudar sua conduta no consultório de memória? Conte nos comentários.
+
+Link na bio.
+
+Fotos: Pexels. Imagens ilustrativas.
+
+#oprontuario #alzheimer #neurologia #biomarcadores #demencia #jama #estudoem1minuto #medicina

@@ -1,0 +1,24 @@
+Tratar tuberculose às cegas em todo bebê com HIV e pneumonia grave parecia lógico. Num ensaio publicado no Lancet, não salvou mais vidas.
+
+Estudo em 1 minuto: o EMPIRICAL é um ensaio randomizado, aberto, fatorial 2×2, feito em 19 hospitais da Costa do Marfim, Malawi, Moçambique, Uganda, Zâmbia e Zimbábue, de 2020 a 2024. Incluiu 558 lactentes de 28 a 365 dias (mediana de 4,4 meses), internados com pneumonia grave associada ao HIV e sem diagnóstico ou contato conhecido de TB. Todos recebiam o padrão: antibiótico recomendado pela OMS e tratamento para Pneumocystis (cotrimoxazol e corticoide).
+
+A comparação: tratamento empírico de TB por 6 meses (isoniazida, rifampicina, pirazinamida e etambutol por 2 meses, depois isoniazida e rifampicina por 4) contra uma estratégia guiada por exames (Xpert Ultra em aspirado e fezes, LAM urinário) e pela clínica.
+
+Resultado principal: em 12 meses, morreram 132 de 276 (48%) no grupo com TB empírica e 121 de 282 (43%) no grupo guiado. HR ajustado 1,12 (IC 95% 0,87 a 1,43; p=0,39). Em 15 dias, OR 1,24 (IC 95% 0,83 a 1,84).
+
+Segurança: eventos adversos graves semelhantes; nenhuma morte relacionada ao tratamento.
+
+Limitações:
+→ no grupo guiado, 46% acabaram iniciando tratamento de TB, em mediana de 4 dias: 20% por exame positivo (53 de 55 pelo LAM urinário) e 27% por decisão clínica. Isso reduz o contraste entre as estratégias, como reconhecem os autores
+→ estudo aberto, feito só na África subsaariana
+→ mortalidade muito alta nos dois braços: o problema é maior do que a TB
+
+O trabalho foi financiado pela EDCTP e publicado no Lancet (vol. 408, 14/11/2026). A primeira autora é Sara Domínguez-Rodríguez, do Instituto de Investigación Sanitaria Hospital 12 de Octubre, em Madri.
+
+No seu serviço, quando a TB entra no tratamento empírico da criança grave? Conte nos comentários.
+
+Link na bio.
+
+Fotos: NIAID/NIH (Flickr, domínio público); DFID (Flickr, CC BY 2.0); criminalintent (Flickr, CC BY-SA 2.0); Pexels. Imagens ilustrativas.
+
+#oprontuario #tuberculose #hiv #pediatria #infectologia #lancet #estudoem1minuto #medicina

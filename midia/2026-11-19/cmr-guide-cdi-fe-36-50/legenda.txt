@@ -1,0 +1,27 @@
+FE de 36% a 50% e cicatriz na ressonância: CDI preventivo? No CMR GUIDE, publicado no JAMA, o desfecho principal não mudou.
+
+Estudo em 1 minuto: ensaio randomizado e aberto, em 18 centros da Austrália, Alemanha e Reino Unido, com inclusão de 2015 a 2022. Participaram 353 adultos com cardiomiopatia isquêmica ou não isquêmica, FEVE de 36% a 50%, cicatriz miocárdica no realce tardio da RM cardíaca e tratamento clínico otimizado. Mediana de idade de 65 anos, 18% mulheres, 72% de etiologia isquêmica e 70% com FEVE ≥40%. Eles receberam CDI (180) ou monitor de eventos implantável, o loop (173). Seguimento mediano de 6,3 anos.
+
+Resultado principal: morte súbita ou arritmia ventricular com repercussão hemodinâmica em 7,8% com CDI e 9,2% com loop (HR 0,76; IC 95% 0,37 a 1,58).
+
+Componentes: morte súbita em 1,7% vs 5,8% (HR 0,26; IC 95% 0,07 a 0,95). Arritmia com repercussão hemodinâmica em 6,7% vs 3,5% (HR 1,77; IC 95% 0,65 a 4,81). Mortalidade total, cardiovascular e internação por IC foram semelhantes.
+
+Subgrupo por idade (pré-especificado): abaixo de 70 anos, 3,3% vs 10,0% (HR 0,28; IC 95% 0,09 a 0,89). A partir de 70, 16,9% vs 7,5% (HR 2,33; IC 95% 0,75 a 7,26). P de interação = 0,01.
+
+Limitações:
+→ só 30 eventos primários no total, com intervalos de confiança largos
+→ estudo aberto
+→ a queda de morte súbita é desfecho secundário, e o achado por idade é de subgrupo: os dois geram hipótese, não conduta
+→ poucas mulheres (18%)
+
+Hoje, as diretrizes só recomendam CDI de prevenção primária com FEVE ≤35%. O estudo não muda isso, mas mantém viva a pergunta sobre a cicatriz como marcador de risco.
+
+O primeiro autor é Joseph Selvanayagam, da Flinders University, em Adelaide (Austrália). O artigo saiu na edição de 17/11 do JAMA.
+
+No seu serviço, a RM cardíaca entra na decisão do CDI? Conte nos comentários.
+
+Link na bio.
+
+Fotos: NIH (Flickr, domínio público); Steve Jurvetson (Flickr, CC BY 2.0); Pexels. Imagens ilustrativas.
+
+#oprontuario #cardiologia #arritmia #cdi #ressonanciacardiaca #jama #estudoem1minuto #medicina

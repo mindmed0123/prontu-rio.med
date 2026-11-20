@@ -1,0 +1,25 @@
+Uma vacina feita a partir do tumor de cada paciente, somada ao pembrolizumabe, reduziu a recidiva do melanoma num ensaio de fase 3.
+
+Estudo em 1 minuto: o INTerpath-001, publicado no NEJM em 11/11, é um ensaio de fase 3, duplo-cego. Randomizou 1.137 pacientes com melanoma cutâneo estádio IIB a IV completamente ressecado, 2:1, para intismeran autogene 1 mg IM a cada 3 semanas (9 doses) ou placebo. Todos receberam pembrolizumabe 400 mg IV a cada 6 semanas (9 ciclos). O intismeran é uma terapia individualizada de neoantígenos, desenhada a partir das mutações do tumor de cada paciente. Seguimento mediano de 24,6 meses.
+
+Resultado principal: sobrevida livre de recorrência em 24 meses de 82,2% com intismeran e 70,0% com placebo (P<0,001). Como o efeito mudou com o tempo, o HR foi apresentado por períodos: 0,99 (IC 95% 0,66 a 1,49) antes de 6 meses e 0,42 (IC 95% 0,30 a 0,58) depois.
+
+Secundário: sobrevida livre de metástase à distância em 24 meses de 88,5% vs 80,2% (P=0,002); HR 1,01 antes de 6 meses e 0,50 (IC 95% 0,34 a 0,73) depois.
+
+Segurança: eventos grau 3 ou mais em 23,6% vs 20,3%. Febre em 52,2% vs 8,2% e dor no local da injeção em 51,0% vs 9,5%. Oito pacientes (1,1%) do grupo intismeran morreram por evento adverso, cinco deles antes de receber a vacina.
+
+Limitações:
+→ ainda não há dados de sobrevida global
+→ o benefício só aparece depois de 6 meses, e o seguimento é curto
+→ financiado por MSD e Moderna; desfecho avaliado pelo investigador
+→ fabricação individual: custo e prazo ainda são perguntas abertas
+
+A primeira autora é Georgina Long, do Melanoma Institute Australia e da Universidade de Sydney.
+
+Vacina personalizada contra câncer chega ao SUS algum dia? Conte nos comentários.
+
+Link na bio.
+
+Fotos: Pexels. Imagens ilustrativas.
+
+#oprontuario #melanoma #oncologia #imunoterapia #vacinadeneoantigeno #nejm #estudoem1minuto #medicina

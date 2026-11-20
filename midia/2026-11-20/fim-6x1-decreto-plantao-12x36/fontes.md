@@ -1,0 +1,9 @@
+# Fontes · Decreto do fim da escala 6x1 e o plantão 12x36
+
+- ConJur, "Presidente assina decreto que regulamenta o fim da escala 6×1", 19/11/2026 (com informações da assessoria de imprensa da Presidência): Decreto 13.173/2026, assinado em 19/11; regulamenta a EC 141/2026; 42 h a partir de 16/12 e 40 h em 16/12/2027; dois dias de repouso; "A escala 12×36 continua permitida, com a exigência de que a média mensal de horas observe os novos limites"; divisores 210 e 200; 14,8 milhões em 6x1 e 21,7 milhões em 5x2 com 44 h; folga excepcional compensada no mesmo mês: https://conjur.com.br/2026-nov-19/presidente-assina-decreto-que-regulamenta-o-fim-da-escala-6x1/
+- JOTA, "Decreto que regulamenta o fim da escala 6x1 traz flexibilização para descanso semanal e divisor de horas extras", 19/11/2026 (lidos título, subtítulo e descrição; corpo não carregou): portarias do MTE para categorias especiais a partir de 23/11; redução de jornada sem redução salarial: https://www.jota.info/trabalho/decreto-que-regulamenta-o-fim-da-escala-6x1-traz-flexibilizacao-para-descanso-semanal-e-divisor-de-horas-extras
+- Agência Senado/Flickr, descrição da foto 55591966982: promulgação da EC 141/2026 (fim da escala 6x1) em sessão solene em 16/10/2026: https://www.flickr.com/photos/agenciasenado/55591966982/
+- A conta 12x36 = 42 h semanais em média é aritmética da redação (12 h a cada 48 h = 3,5 plantões por semana).
+- Não confirmado: texto do decreto no DOU (não aberto); aplicação a servidores estatutários ou a médicos PJ (não afirmado na legenda).
+
+Fotos: capa Flickr Agência Senado 55591966982 (Carolina Curi/Agência Senado, licença 12, CC BY-SA 4.0); slide 2 Agência Senado 55593434124 (licença 12, CC BY-SA 4.0, sessão de promulgação das ECs 140 e 141); slides 1 e 3 Pexels 3279197 e 6303590 (ilustrativas).

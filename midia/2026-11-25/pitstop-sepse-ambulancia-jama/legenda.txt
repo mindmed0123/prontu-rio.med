@@ -1,0 +1,32 @@
+Antibiótico ainda na ambulância e soro liberal no caminho: num ensaio randomizado publicado no JAMA, nenhum dos dois reduziu a mortalidade na sepse.
+
+Estudo em 1 minuto: o PITSTOP, publicado na terça (24), é um ensaio fatorial 2×2 feito por 4 serviços de paramédicos de Ontário, no Canadá, e seus hospitais de destino, de março de 2020 a agosto de 2025. Incluiu adultos com suspeita de infecção, febre ≥38 °C, PAS <100 mmHg e acesso venoso. Desfecho principal: mortalidade hospitalar até 90 dias.
+
+Antibiótico (ceftriaxona 1 g IM vs placebo):
+→ 2.048 pacientes na análise principal; idade mediana de 75 anos
+→ droga do estudo aplicada em média 37 a 39 minutos após a chegada dos paramédicos
+→ no hospital, 92% receberam antibiótico, em média cerca de 4 horas após a chegada dos paramédicos
+→ mortalidade: 18,0% vs 18,4% (RR 0,97; IC 95% 0,81 a 1,17; P=0,77)
+
+Soro (liberal vs usual):
+→ liberal: até 2 L de SF 0,9%, independentemente da PA; usual: só com PAS <90 mmHg, parando com PAS ≥100
+→ 1.646 pacientes; mediana de 1.500 mL vs 500 mL no transporte
+→ mortalidade: 18,0% vs 18,3% (RR 0,98; IC 95% 0,80 a 1,20; P=0,82)
+→ edema pulmonar no transporte foi infrequente nos dois grupos
+
+Nos dois braços, os 17 desfechos secundários foram semelhantes.
+
+Limitações:
+→ a diferença testada foi antecipar o antibiótico em cerca de 3,5 horas, com uma dose IM única
+→ um único sistema pré-hospitalar, com população idosa
+→ o estudo não avaliou o tempo de antibiótico dentro do hospital
+
+O primeiro autor é Damon Scales, do Sunnybrook Health Sciences Centre e da Universidade de Toronto.
+
+Na sua cidade, o SAMU já inicia antibiótico na suspeita de sepse? Conte nos comentários.
+
+Link na bio.
+
+Fotos: Prefeitura de Olinda (Flickr, CC BY 2.0), ambulâncias do SAMU; Pexels. Imagens ilustrativas; o estudo foi feito no Canadá.
+
+#oprontuario #sepse #emergencia #atendimentoprehospitalar #samu #jama #estudoem1minuto #medicina

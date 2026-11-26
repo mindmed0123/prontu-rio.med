@@ -11,7 +11,7 @@ Pontos de atenção:
 → o ganho em dias sem ventilador ficou no limite da significância
 → o controle também melhorou muito só com auditoria e feedback
 → o teste da adesão foi unilateral, pré-especificado
-→ um único sistema de saúde americano, já integrado em teleUTI
+→ um único sistema de saúde americano
 
 O primeiro autor é Colin K. Grissom, do Intermountain Medical Center e da Universidade de Utah.
 

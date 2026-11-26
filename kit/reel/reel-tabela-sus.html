@@ -41,17 +41,12 @@
 </head>
 <body>
 
-<div class="scene ink" id="s1">
-  <div class="card"><img src="../../midia/2026-11-13/gilmar-tabela-sus-stf/01-capa.jpg" alt=""></div>
-  <div class="foot" style="text-align:center;color:var(--verde)">Em 15 segundos</div>
-</div>
-
 <div class="scene ink" id="s2">
   <div class="brand">O Prontuário</div>
   <div class="mid">
-    <div class="kicker" style="color:var(--verde)">Processos suspensos</div>
+    <div class="kicker" style="color:var(--verde)">O STF travou</div>
     <div class="big" id="n2">0</div>
-    <div class="sub">ações de hospitais e Santas Casas contra a União, travadas em todo o país até o STF julgar o mérito.</div>
+    <div class="sub">ações de hospitais e Santas Casas que cobram da União a diferença da Tabela SUS. Em todo o país, até o julgamento.</div>
   </div>
   <div class="foot">Fonte: AGU, citada na decisão de 12/11</div>
 </div>
@@ -93,23 +88,17 @@ const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
 const easeOut=x=>1-Math.pow(1-x,3);
 const easeIO=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
 const fmt=n=>Math.round(n).toLocaleString('pt-BR');
-const S=[[0,3.2],[3.2,6.6],[6.6,10.2],[10.2,14.0],[14.0,17.0]];
+const S=[[-1,0],[0,3.4],[3.4,7.0],[7.0,10.8],[10.8,13.8]];
 function seg(t,a,b){return clamp((t-a)/(b-a));}
-function show(id,on){document.getElementById(id).classList.toggle('on',on);}
+function show(id,on){const e=document.getElementById(id);if(e)e.classList.toggle('on',on);}
 function slideIn(el,p,dy=60){el.style.opacity=p;el.style.transform=`translateY(${(1-p)*dy}px)`;}
 window.setT=function(t){
   S.forEach((s,i)=>show('s'+(i+1),t>=s[0]&&t<s[1]));
-  // S1: ken burns + headline lines
-  if(t<S[0][1]){const p=seg(t,0,3.2);const e=easeOut(seg(t,0,0.6));
-    const card=document.querySelector('#s1 .card');card.style.opacity=e;card.style.transform=`scale(${0.92+0.08*e})`;
-    document.querySelector('#s1 img').style.transform=`scale(${1+0.06*p})`;
-    slideIn(document.querySelector('#s1 .foot'),easeOut(seg(t,0.8,1.3)),20);
-  }
   // S2 count 7738
   if(t>=S[1][0]&&t<S[1][1]){const a=S[1][0];
-    slideIn(document.querySelector('#s2 .kicker'),easeOut(seg(t,a,a+.4)));
-    const p=easeOut(seg(t,a+.2,a+1.8));document.getElementById('n2').textContent=fmt(7738*p);
-    slideIn(document.getElementById('n2'),easeOut(seg(t,a+.1,a+.5)),40);
+    slideIn(document.querySelector('#s2 .kicker'),easeOut(seg(t,a+.5,a+.9)));
+    const p=easeOut(seg(t,a,a+1.4));document.getElementById('n2').textContent=fmt(7738*p);
+    slideIn(document.getElementById('n2'),1,0);
     slideIn(document.querySelector('#s2 .sub'),easeOut(seg(t,a+1.2,a+1.8)));
     slideIn(document.querySelector('#s2 .foot'),easeOut(seg(t,a+1.6,a+2.1)),20);
   }
@@ -140,7 +129,7 @@ window.setT=function(t){
     slideIn(document.querySelector('#s5 .foot'),easeOut(seg(t,a+1.1,a+1.6)),20);
   }
 };
-window.DUR=17.0;
+window.DUR=13.8;
 setT(0);
 </script>
 </body>

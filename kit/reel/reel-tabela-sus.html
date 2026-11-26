@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@500;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{--ink:#0E1A1F;--paper:#F3F0E8;--verde:#2EC4A6;--verde2:#1F7A6A;--cinza:#8A9397}
+  *{box-sizing:border-box}
+  html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:var(--ink)}
+  .scene{position:absolute;inset:0;opacity:0}
+  .scene.on{opacity:1}
+  .paper{background:var(--paper);color:var(--ink)}
+  .ink{background:var(--ink);color:var(--paper)}
+  .brand{position:absolute;top:140px;left:0;right:0;text-align:center;font:400 54px 'Instrument Serif',serif;letter-spacing:-0.5px}
+  .kicker{font:700 30px 'JetBrains Mono',monospace;letter-spacing:6px;text-transform:uppercase}
+  .mid{position:absolute;left:90px;right:90px;top:0;bottom:0;display:flex;flex-direction:column;justify-content:center;gap:36px}
+  .big{font:400 300px/0.95 'Instrument Serif',serif;letter-spacing:-8px;font-variant-numeric:tabular-nums}
+  .big.g{color:var(--verde)}
+  .sub{font:500 44px/1.25 'Inter Tight',sans-serif}
+  .foot{position:absolute;bottom:150px;left:90px;right:90px;font:500 24px 'JetBrains Mono',monospace;letter-spacing:3px;color:var(--cinza);text-transform:uppercase}
+  .reveal{clip-path:inset(0 100% 0 0)}
+  /* S1: capa do carrossel como cartão */
+  #s1 .card{position:absolute;left:60px;top:300px;width:960px;height:1080px;overflow:hidden;box-shadow:0 60px 120px rgba(0,0,0,.5);transform-origin:50% 50%}
+  #s1 .card img{width:960px;height:1200px;object-fit:cover;object-position:top;transform-origin:50% 30%}
+  /* bars */
+  .bars{display:flex;flex-direction:column;gap:60px;margin-top:20px}
+  .bar .lab{font:500 36px 'Inter Tight',sans-serif;margin-bottom:18px;display:flex;justify-content:space-between;align-items:baseline}
+  .bar .lab b{font:400 72px 'Instrument Serif',serif}
+  .bar .trk{height:84px;background:rgba(14,26,31,.08)}
+  .ink .bar .trk{background:rgba(243,240,232,.1)}
+  .bar .fil{height:100%;background:var(--ink);transform-origin:left;transform:scaleX(0)}
+  .bar .fil.g{background:var(--verde)}
+  /* S5 */
+  #s5 .mid{gap:50px;align-items:center;text-align:center}
+  #s5 .t{font:400 92px/1.05 'Instrument Serif',serif;letter-spacing:-2px}
+  #s5 .cta{font:700 30px 'JetBrains Mono',monospace;letter-spacing:5px;text-transform:uppercase;color:var(--verde);border:3px solid var(--verde);padding:26px 40px}
+  .logo{font:400 150px 'Instrument Serif',serif;line-height:1}
+</style>
+</head>
+<body>
+
+<div class="scene ink" id="s1">
+  <div class="card"><img src="../../midia/2026-11-13/gilmar-tabela-sus-stf/01-capa.jpg" alt=""></div>
+  <div class="foot" style="text-align:center;color:var(--verde)">Em 15 segundos</div>
+</div>
+
+<div class="scene ink" id="s2">
+  <div class="brand">O Prontuário</div>
+  <div class="mid">
+    <div class="kicker" style="color:var(--verde)">Processos suspensos</div>
+    <div class="big" id="n2">0</div>
+    <div class="sub">ações de hospitais e Santas Casas contra a União, travadas em todo o país até o STF julgar o mérito.</div>
+  </div>
+  <div class="foot">Fonte: AGU, citada na decisão de 12/11</div>
+</div>
+
+<div class="scene paper" id="s3">
+  <div class="brand">O Prontuário</div>
+  <div class="mid">
+    <div class="kicker" style="color:var(--verde2)">Risco estimado pela AGU</div>
+    <div class="big" id="n3">R$ 0</div>
+    <div class="sub">bilhões, se o parâmetro pedido pelos hospitais valesse para todos. Já foram pagos R$ 731 milhões a 94 autores em 2023 e 2024.</div>
+  </div>
+  <div class="foot">RE 1.612.904 · repercussão geral</div>
+</div>
+
+<div class="scene ink" id="s4">
+  <div class="brand">O Prontuário</div>
+  <div class="mid">
+    <div class="kicker" style="color:var(--verde)">O que o governo quer no lugar</div>
+    <div class="bars">
+      <div class="bar"><div class="lab"><span>Tabela SUS hoje</span><b id="b1v">1x</b></div><div class="trk"><div class="fil" id="b1"></div></div></div>
+      <div class="bar"><div class="lab"><span>Agora Tem Especialistas</span><b id="b2v" style="color:var(--verde)">0x</b></div><div class="trk"><div class="fil g" id="b2"></div></div></div>
+    </div>
+    <div class="sub" style="margin-top:30px">Padilha promete "enterrar" a tabela e pagar por conjunto de cuidado, que segundo ele remunera de 3 a 4 vezes mais.</div>
+  </div>
+  <div class="foot">Ministério da Saúde · nov/2026</div>
+</div>
+
+<div class="scene paper" id="s5">
+  <div class="mid">
+    <div class="logo">O Prontuário</div>
+    <div class="t">Quem paga, quanto<br>e o que muda<br>no seu plantão.</div>
+    <div class="cta">Matéria completa no link da bio</div>
+  </div>
+  <div class="foot" style="text-align:center">oprontuario.beehiiv.com</div>
+</div>
+
+<script>
+const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const easeOut=x=>1-Math.pow(1-x,3);
+const easeIO=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
+const fmt=n=>Math.round(n).toLocaleString('pt-BR');
+const S=[[0,3.2],[3.2,6.6],[6.6,10.2],[10.2,14.0],[14.0,17.0]];
+function seg(t,a,b){return clamp((t-a)/(b-a));}
+function show(id,on){document.getElementById(id).classList.toggle('on',on);}
+function slideIn(el,p,dy=60){el.style.opacity=p;el.style.transform=`translateY(${(1-p)*dy}px)`;}
+window.setT=function(t){
+  S.forEach((s,i)=>show('s'+(i+1),t>=s[0]&&t<s[1]));
+  // S1: ken burns + headline lines
+  if(t<S[0][1]){const p=seg(t,0,3.2);const e=easeOut(seg(t,0,0.6));
+    const card=document.querySelector('#s1 .card');card.style.opacity=e;card.style.transform=`scale(${0.92+0.08*e})`;
+    document.querySelector('#s1 img').style.transform=`scale(${1+0.06*p})`;
+    slideIn(document.querySelector('#s1 .foot'),easeOut(seg(t,0.8,1.3)),20);
+  }
+  // S2 count 7738
+  if(t>=S[1][0]&&t<S[1][1]){const a=S[1][0];
+    slideIn(document.querySelector('#s2 .kicker'),easeOut(seg(t,a,a+.4)));
+    const p=easeOut(seg(t,a+.2,a+1.8));document.getElementById('n2').textContent=fmt(7738*p);
+    slideIn(document.getElementById('n2'),easeOut(seg(t,a+.1,a+.5)),40);
+    slideIn(document.querySelector('#s2 .sub'),easeOut(seg(t,a+1.2,a+1.8)));
+    slideIn(document.querySelector('#s2 .foot'),easeOut(seg(t,a+1.6,a+2.1)),20);
+  }
+  // S3 count 243
+  if(t>=S[2][0]&&t<S[2][1]){const a=S[2][0];
+    slideIn(document.querySelector('#s3 .kicker'),easeOut(seg(t,a,a+.4)));
+    const p=easeOut(seg(t,a+.2,a+1.8));document.getElementById('n3').textContent='R$ '+fmt(243*p);
+    slideIn(document.getElementById('n3'),easeOut(seg(t,a+.1,a+.5)),40);
+    slideIn(document.querySelector('#s3 .sub'),easeOut(seg(t,a+1.2,a+1.8)));
+    slideIn(document.querySelector('#s3 .foot'),easeOut(seg(t,a+1.6,a+2.1)),20);
+  }
+  // S4 bars
+  if(t>=S[3][0]&&t<S[3][1]){const a=S[3][0];
+    slideIn(document.querySelector('#s4 .kicker'),easeOut(seg(t,a,a+.4)));
+    const p1=easeOut(seg(t,a+.3,a+1.0));document.getElementById('b1').style.transform=`scaleX(${0.25*p1})`;
+    slideIn(document.querySelectorAll('#s4 .bar')[0],easeOut(seg(t,a+.2,a+.6)),30);
+    slideIn(document.querySelectorAll('#s4 .bar')[1],easeOut(seg(t,a+.9,a+1.3)),30);
+    const p2=easeIO(seg(t,a+1.1,a+2.4));document.getElementById('b2').style.transform=`scaleX(${0.25+0.75*p2})`;
+    document.getElementById('b2v').textContent=(1+3*p2).toFixed(1).replace('.',',').replace(',0','')+'x';
+    slideIn(document.querySelector('#s4 .sub'),easeOut(seg(t,a+2.0,a+2.6)));
+    slideIn(document.querySelector('#s4 .foot'),easeOut(seg(t,a+2.4,a+2.9)),20);
+  }
+  // S5
+  if(t>=S[4][0]){const a=S[4][0];
+    slideIn(document.querySelector('#s5 .logo'),easeOut(seg(t,a,a+.5)),30);
+    slideIn(document.querySelector('#s5 .t'),easeOut(seg(t,a+.3,a+.9)));
+    slideIn(document.querySelector('#s5 .cta'),easeOut(seg(t,a+.8,a+1.3)),30);
+    slideIn(document.querySelector('#s5 .foot'),easeOut(seg(t,a+1.1,a+1.6)),20);
+  }
+};
+window.DUR=17.0;
+setT(0);
+</script>
+</body>
+</html>

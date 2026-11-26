@@ -1,0 +1,6 @@
+# Fontes · Força Nacional do SUS vai à sanção
+
+- Agência Senado, "Força Nacional do SUS ganha respaldo em lei e texto vai à sanção", 25/11/2026 17h23. https://www12.senado.leg.br/noticias/materias/2026/11/25/forca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao
+  Conferido: aprovação em urgência na quarta (25); PL 351/2019 de Alexandre Padilha (PT-SP), deputado licenciado e atual ministro; parecer de Confúcio Moura (MDB-RO); funciona desde 2011 por decreto, criada após chuvas na Região Serrana do RJ; >170 missões, ~80 mil atendimentos diretos, ~3 mil voluntários (balanço do MS citado pelo relator); bases Brasília, Porto Alegre, Salvador, Rio, Manaus, Porto Velho; composição (servidores mantêm remuneração e vínculo, temporários, voluntários qualificados, Proadi-SUS); dispensa de compensar horas salvo previsão contratual; grandes eventos; equipe de resposta rápida; adesão voluntária; missões internacionais; fala de Zenaide Maia (PSD-RN).
+
+Fotos: Prefeitura de Rio Preto, Flickr 54319636819 (capa), 54321233551 (slide 2) e 54319405021 (slide 3), licença 4 (CC BY 2.0), visita técnica da FN-SUS à UPA Jaguaré em 10/02/2025; Agência Senado, Flickr 55674226885 (slide 1), licença 12 (CC BY-SA 4.0), plenário em 25/11/2026 com o PL 351/2019 na pauta.

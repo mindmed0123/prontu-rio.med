@@ -1,0 +1,24 @@
+Despertar diário e teste de respiração espontânea coordenados todo mundo conhece. Fazer todo dia é outra história. Um ensaio no JAMA testou se uma equipe remota resolve isso.
+
+Estudo em 1 minuto: o TEACH, publicado na quarta (25), é um ensaio randomizado por cluster em 12 hospitais da Intermountain Health, em Utah e Idaho (EUA). Incluiu pacientes de 16 anos ou mais intubados na UTI, de dezembro de 2022 a julho de 2025. Todos os hospitais receberam auditoria e feedback; nos de telessaúde, enfermeiros e fisioterapeutas respiratórios da UTI remota acompanhavam em tempo real a adesão ao SAT/TRE coordenado.
+
+Os números:
+→ 4.544 pacientes nos hospitais de telessaúde, 6.438 nos de controle e 1.789 na linha de base comum
+→ adesão: de 43,9% na linha de base para 90,3% com telessaúde e 77,6% no controle (OR da mudança 2,87; diferença absoluta de 11,4 pontos percentuais)
+→ dias livres de ventilação até o 28º dia: mediana de 24 na linha de base para 25 nos dois grupos; diferença de 1,02 dia a favor da telessaúde (IC 95% 0,05 a 1,96; P=0,04)
+
+Pontos de atenção:
+→ o ganho em dias sem ventilador ficou no limite da significância
+→ o controle também melhorou muito só com auditoria e feedback
+→ o teste da adesão foi unilateral, pré-especificado
+→ um único sistema de saúde americano, já integrado em teleUTI
+
+O primeiro autor é Colin K. Grissom, do Intermountain Medical Center e da Universidade de Utah.
+
+Na sua UTI, quem garante que o despertar e o TRE acontecem todo dia? Conte nos comentários.
+
+Link na bio.
+
+Fotos: Pexels, ilustrativas; o estudo foi feito nos EUA.
+
+#oprontuario #medicinaintensiva #uti #ventilacaomecanica #telessaude #jama #estudoem1minuto #medicina
